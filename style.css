@@ -524,6 +524,14 @@ main {
     height: 10px;
 }
 
+.circle {
+    background-color: whitesmoke;
+    color: black;
+    opacity: 1;
+    font-size: 12px;
+}
+
+
 
 @media (max-width: 600px) {
     .n-left {
